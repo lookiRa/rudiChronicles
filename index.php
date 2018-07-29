@@ -22,7 +22,7 @@
     padding: 0;
     font-size: 1.6rem;
     color: #353535;
-    background: linear-gradient(to bottom, #ccc, #fff 75%);
+    background: linear-gradient(to bottom, #ccc, #fff   30%);
     background-repeat: no-repeat;
   }
 
