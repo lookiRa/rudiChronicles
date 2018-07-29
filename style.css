@@ -51,9 +51,10 @@ a.nav-link:hover{
 /****** MOBILE***/
 @media only screen and (max-width: 414px){
     img.title-img{
-        width:100%;
-        max-width: 400px;
+        width:90%;
+        max-width: 320px;
         height: auto;
+        max-height: 71px;
         
     }
 
