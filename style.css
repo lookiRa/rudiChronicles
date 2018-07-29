@@ -10,12 +10,13 @@ body.index{
     justify-content: center;
 }
 
-.title-img{
+img.title-img{
     width:100%;
     max-width: 900px;
     height: auto;
     
 }
+
 
 .nav-bar{
     display: flex;
@@ -45,4 +46,19 @@ a.nav-link:hover{
     color:#EE8499;
     transform: scale(1.05);
     transition: 1s;
+}
+
+/****** MOBILE***/
+@media only screen and (max-width: 414px){
+    img.title-img{
+        width:100%;
+        max-width: 400px;
+        height: auto;
+        
+    }
+
+    .nav-bar{
+        display: block;
+        justify-content: center;
+    }
 }
