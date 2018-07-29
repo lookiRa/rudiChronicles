@@ -4,6 +4,10 @@ body.index{
     padding: 0;
 }
 
+.container{
+    width: 90%;
+}
+
 .title{
     display: flex;
     flex-wrap: wrap;
