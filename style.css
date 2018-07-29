@@ -45,6 +45,7 @@ a.nav-link{
     color: darkslategray;
     display: block;
     padding: 1em;
+    width: 100%
     
 }
 a.nav-link:hover{
@@ -68,7 +69,7 @@ a.nav-link:hover{
         justify-content: center;
     }
 
-    a.nav-link{
+    ul.nav-list{
         text-align: center;
     }
 }
