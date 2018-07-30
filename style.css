@@ -60,6 +60,9 @@ a.nav-link:hover{
     color:#EE8499;
     transform: scale(1.05);
     transition: 1s;
+    transform: perspective(1px);
+   
+    
 }
 
 
