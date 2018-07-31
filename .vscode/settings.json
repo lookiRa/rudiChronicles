@@ -1,0 +1,17 @@
+{
+    "deploy.reloaded": {
+        "targets": [
+            {
+                "type": "ftp",
+                "name": "My FTP folder",
+                "description": "A FTP folder",
+
+                "dir": "/my_package_files",
+                "host": "ftp.rudichronicles.co.uk", 
+                "port": 21,
+                "user": "littledreamer@rudichronicles.co.uk", 
+                "password": "Ruderal!s18"
+            }
+        ]
+    }
+}
