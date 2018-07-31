@@ -77,20 +77,20 @@ a.nav-link:hover{
 
 /****DESKTOP**/
 
-@media (max-width:900px;){
+@media (max-width:900px){
     a.nav-link{
-        margin: 
+        margin: ;
     }
 }
 
-@media (max-width:800px;) {
+@media (max-width:800px) {
     .gallery {
         flex:25%;
         max-width:50%;
     }
 }
 
-@media (max-width:600px;) {
+@media (max-width:600px) {
     .gallery {
         flex:100%;
         max-width: 50%;
