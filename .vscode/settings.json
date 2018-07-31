@@ -1,0 +1,17 @@
+{
+    "deploy.reloaded": {
+        "targets": [
+            {
+                "type": "ftp",
+                "name": "My FTP folder",
+                "description": "A FTP folder",
+
+                "dir": "/my_package_files",
+                "host": "ftp.stackcp.com", 
+                "port": 21,
+                "user": "rudichronicles.co.uk", 
+                "password": "e9301d7c5fd0"
+            }
+        ]
+    }
+}
