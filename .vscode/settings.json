@@ -6,7 +6,7 @@
                 "name": "My FTP folder",
                 "description": "A FTP folder",
 
-                "dir": "/my_package_files",
+                "dir": "/",
                 "host": "ftp.stackcp.com", 
                 "port": 21,
                 "user": "rudichronicles.co.uk", 
