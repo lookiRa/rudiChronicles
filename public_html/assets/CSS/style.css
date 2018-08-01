@@ -65,10 +65,16 @@ a.nav-link{
 a.nav-link:hover{
     color:#EE8499;
     transform: scale(1.05);
-    transition: 0.1s;
+    transition: 1s;
     transform: perspective(1px);
    
     
+}
+
+#intro-img{
+    width: 100%;
+    max-width:415px;
+    height: auto;
 }
 
 
@@ -76,25 +82,6 @@ a.nav-link:hover{
 
 
 /****DESKTOP**/
-
-
-
-@media (max-width:800px) {
-    .gallery {
-        flex:25%;
-        max-width:50%;
-    }
-}
-
-@media (max-width:600px) {
-    .gallery {
-        flex:100%;
-        max-width: 50%;
-    }
-}
-
-
-
 
 @media only screen and (min-width: 415px){
     
@@ -163,7 +150,9 @@ a.nav-link:hover{
         justify-content: center;
     }
 
-    
+
+    /***GALLERY***/
+
     * {
         box-sizing: border-box;
     }
@@ -176,6 +165,7 @@ a.nav-link:hover{
     }
 
     .gallery {
+        display: flex;
         flex: 25%;
         max-width: 25%;
         padding: 0 4px;
@@ -200,4 +190,33 @@ a.nav-link:hover{
         flex-wrap: wrap;
         justify-content: center;
     }
+
+   
 }
+
+
+@media (max-width:900px){
+    a.nav-link{
+       
+    }
+}
+
+@media (max-width:800px) {
+    .gallery {
+        display: flex;
+        flex:25%;
+        max-width:50%;
+    }
+}
+
+@media (max-width:600px) {
+    .gallery {
+        display: flex;
+        flex:100%;
+        max-width: 50%;
+    }
+}
+
+
+
+
