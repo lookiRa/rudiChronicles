@@ -65,13 +65,19 @@ a.nav-link{
 a.nav-link:hover{
     color:#EE8499;
     transform: scale(1.05);
-    transition: 1s;
+    transition: 0.1s;
     transform: perspective(1px);
    
     
 }
 
-
+/****MEDIUM SCREEN - TABLET
+@media only screen and (min-width: 415px){
+    .gallery {
+        flex-wr:25%;
+        max-width:50%;
+    }
+}****/
 
 
 
