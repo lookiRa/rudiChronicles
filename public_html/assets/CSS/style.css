@@ -72,7 +72,7 @@ a.nav-link:hover{
 }
 
 #intro-img{
-    width: 100%;
+    width: 90%;
     max-width:415px;
     height: auto;
 }
@@ -148,6 +148,13 @@ a.nav-link:hover{
     .content >{
         display: flex;
         justify-content: center;
+    }
+
+    #intro-img{
+        width: 100%;
+        max-width: 600px;
+        height: auto;
+
     }
 
 
