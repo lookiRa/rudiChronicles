@@ -7,7 +7,7 @@
                 "description": "A FTP folder",
 
                 "dir": "/",
-                "host": "ftp.stackcp.com", 
+                "host": "ftp.rudichronicles.co.uk", 
                 "port": 21,
                 "user": "rudichronicles.co.uk", 
                 "password": "e9301d7c5fd0"
