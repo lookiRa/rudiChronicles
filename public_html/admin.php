@@ -21,7 +21,7 @@
  * https://ellislab.com/expressionengine/user-guide/installation/best_practices.html
  *
  */
-	$system_path = './pool';
+	$system_path = '../pool';
 
 /*
  * --------------------------------------------------------------------

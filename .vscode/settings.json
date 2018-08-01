@@ -13,5 +13,6 @@
                 "password": "e9301d7c5fd0"
             }
         ]
-    }
+    },
+    "git.ignoreLimitWarning": true
 }
