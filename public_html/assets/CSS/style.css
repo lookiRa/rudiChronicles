@@ -132,6 +132,16 @@ a.nav-link:hover{
         transform: scale(1.05);
         transition: 1s;
     }
+
+    img#intro-img{
+        display: flex;
+        justify-content: center;
+        width: 90%;
+        height: auto;
+        max-width: 600px;
+
+    }
+
      .content >{
         display: flex;
         justify-content: center;
