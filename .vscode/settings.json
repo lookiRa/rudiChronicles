@@ -6,8 +6,8 @@
                 "name": "My FTP folder",
                 "description": "A FTP folder",
 
-<<<<<<< HEAD
-                "dir": "/my_package_files",
+
+                "dir": "/",
 
                 "host": "ftp.rudichronicles.co.uk", 
                 "port": 21,
@@ -15,5 +15,5 @@
                 "password": "e9301d7c5fd0"
             }
         ]
-<<<<<<< HEAD
+
     }
