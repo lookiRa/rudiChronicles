@@ -1,0 +1,19 @@
+ls -lah
+cd public_html/
+ls -lah
+cd ..
+ls -lah
+cd assets/
+ls -lah
+cd ..
+ls -lah
+cd public_html/
+ls -lah
+cd ..
+ls -lah
+grep -Rl "database" public_html/
+vim public_html/admin.php
+ls -lah
+cd p
+cd public_html/
+ls -lah
